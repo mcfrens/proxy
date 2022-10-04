@@ -23,15 +23,23 @@ kick-existing-players = false
 
 ping-passthrough = "DISABLED"
 
-enable-player-address-logging = false
+enable-player-address-logging = true
 
 [servers]
-world1 = "127.0.0.1:30067"
-world2 = "127.0.0.1:30068"
+world1 = "127.0.0.1:30066"
+world2 = "127.0.0.1:30067"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = ["world1", "world2"]
 
+[forced-hosts]
+# Configure your forced hosts here.
+"world1.mcfrens.com" = [
+    "world1"
+]
+"world2.mcfrens.com" = [
+    "world2"
+]
 
 [advanced]
 compression-threshold = 256
