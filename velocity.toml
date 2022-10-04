@@ -1,0 +1,71 @@
+# Config version. Do not change this
+config-version = "2.5"
+
+bind = "0.0.0.0:25565"
+
+motd = "Welcome to MC Frens!"
+
+show-max-players = 25
+
+online-mode = true
+
+force-key-authentication = true
+
+prevent-client-proxy-connections = false
+
+player-info-forwarding-mode = "modern"
+
+forwarding-secret-file = "forwarding.secret"
+
+announce-forge = false
+
+kick-existing-players = false
+
+ping-passthrough = "DISABLED"
+
+enable-player-address-logging = false
+
+[servers]
+world1 = "127.0.0.1:30067"
+world2 = "127.0.0.1:30068"
+
+# In what order we should try servers when a player logs in or is kicked from a server.
+try = ["world1", "world2"]
+
+
+[advanced]
+compression-threshold = 256
+
+compression-level = -1
+
+login-ratelimit = 3000
+
+connection-timeout = 5000
+
+read-timeout = 30000
+
+haproxy-protocol = false
+
+tcp-fast-open = false
+
+bungee-plugin-message-channel = true
+
+show-ping-requests = false
+
+failover-on-unexpected-server-disconnect = true
+
+announce-proxy-commands = true
+
+log-command-executions = false
+
+log-player-connections = true
+
+[query]
+
+enabled = false
+
+port = 25565
+
+map = "MC Frens"
+
+show-plugins = false
