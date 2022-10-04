@@ -22,3 +22,6 @@ Essentially all you have to do is clone this repo, and the repos for each world.
 5. Run `sudo chmod +x start.bat` (should only have to do this once)
 6. Run `./start.bat` to start the proxy server.
 7. If you want to add more worlds, then you should probably just follow the fabric docs. Just add them to the velocity.toml and make sure they run on different ports.
+
+## Custom Domain
+But what about the cool mcfrens.com domain name? Too bad, that is mine. If you want a cool domain, buy one yourself :) You can find a tutorial for that anyways. Otherwise, just Google `what's my IP` and then type that into the minecraft server chooser to connect to it.
