@@ -10,7 +10,7 @@ Essentially all you have to do is clone this repo, and the repos for each world.
 
 ## Steps
 1. Clone this repo
-2. Inside the `mc-frens` folder, create a file `forwarding-secret`. Put some password in here, and remember it for later. We don't have this in the repo becuase it is a secret, duh.
+2. Inside the `mc-frens` folder, create a file `forwarding.secret`. Put some password in here, and remember it for later. We don't have this in the repo becuase it is a secret, duh.
 2. Clone your other servers, and follow these steps for each one.
     1. Navigate to the folder in the command line. `cd ~/Documents/minecraft-frens-1.18/` or whatever it is called.
     2. Run `java -Xmx5120M -Xms1024M -jar fabric.jar nogui` You can change this if you have more RAM to spare.
