@@ -1,0 +1,46 @@
+2022-10-06 23:57:53,469 main WARN Advanced terminal features are not available in this environment
+[23:57:56 INFO]: Booting up Velocity 3.1.2-SNAPSHOT (git-7d77bfb5-b184)...
+[23:57:56 INFO]: Loading localizations...
+[23:57:57 INFO]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.0.x (Linux x86_64) ciphers
+[23:57:58 INFO]: Loading plugins...
+[23:57:58 INFO]: Loaded 0 plugins
+[23:57:58 INFO]: Listening on /[0:0:0:0:0:0:0:0%0]:25565
+[23:57:58 INFO]: Done (4.48s)!
+[23:58:10 INFO]: [connected player] bperry72 (/89.187.180.16:32888) has connected
+[23:58:11 ERROR]: [connected player] bperry72 (/89.187.180.16:32888): unable to connect to server world1
+io.netty.channel.AbstractChannel$AnnotatedConnectException: finishConnect(..) failed: Connection refused: /127.0.0.1:30066
+Caused by: java.net.ConnectException: finishConnect(..) failed: Connection refused
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:155) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:128) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.unix.Socket.finishConnect(Socket.java:359) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.doFinishConnect(AbstractEpollChannel.java:710) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.finishConnect(AbstractEpollChannel.java:687) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.epollOutReady(AbstractEpollChannel.java:567) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:489) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[23:58:11 ERROR]: [connected player] bperry72 (/89.187.180.16:32888): unable to connect to server world2
+io.netty.channel.AbstractChannel$AnnotatedConnectException: finishConnect(..) failed: Connection refused: /127.0.0.1:30067
+Caused by: java.net.ConnectException: finishConnect(..) failed: Connection refused
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:155) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:128) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.unix.Socket.finishConnect(Socket.java:359) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.doFinishConnect(AbstractEpollChannel.java:710) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.finishConnect(AbstractEpollChannel.java:687) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.epollOutReady(AbstractEpollChannel.java:567) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:489) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity.jar:3.1.2-SNAPSHOT (git-7d77bfb5-b184)]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[23:58:11 INFO]: [connected player] bperry72 (/89.187.180.16:32888) has disconnected: Unable to connect you to world2. Please try again later.
+[23:58:20 INFO]: [connected player] bperry72 (/89.187.180.16:33356) has connected
+[23:58:20 INFO]: [server connection] bperry72 -> world1 has connected
+[23:58:47 INFO]: [server connection] bperry72 -> world2 has connected
+[23:58:47 INFO]: [server connection] bperry72 -> world1 has disconnected
+[23:58:56 INFO]: [connected player] bperry72 (/89.187.180.16:33356) has disconnected
+[23:58:56 INFO]: [server connection] bperry72 -> world2 has disconnected
