@@ -25,3 +25,10 @@ Essentially all you have to do is clone this repo, and the repos for each world.
 
 ## Custom Domain
 But what about the cool mcfrens.com domain name? Too bad, that is mine. If you want a cool domain, buy one yourself :) You can find a tutorial for that anyways. Otherwise, just Google `what's my IP` and then type that into the minecraft server chooser to connect to it.
+
+## Launch on start
+
+1. Make sure your folder structure is Minecraft in the home directory containing mc-frens and minecraft-frens-1.18 and whaterver other servers.
+2. run `crontab -e`
+3. Add a new line at the end of the file `@reboot ./Minecraft/mc-frens/launch-all-servers.sh`
+4. This will start the server in the background which can make it hard to stop. You can run `top` and find all processes that are using Java. `kill -9 [PID]` to stop it.
