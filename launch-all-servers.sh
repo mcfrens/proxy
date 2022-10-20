@@ -8,3 +8,6 @@ cd ../minecraft-frens-1.18/
 
 cd ../minecraft-frens-1.19/
 ./start.sh > output.log &
+
+cd ../minecraft-frens-creative/
+./start.sh > output.log &
