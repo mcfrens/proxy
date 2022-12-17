@@ -9,7 +9,7 @@ show-max-players = 25
 
 online-mode = true
 
-force-key-authentication = true
+force-key-authentication = false
 
 prevent-client-proxy-connections = false
 
@@ -28,21 +28,21 @@ enable-player-address-logging = true
 [servers]
 world1 = "127.0.0.1:30066"
 world2 = "127.0.0.1:30067"
-world3 = "127.0.0.1:30008"
+lobby = "127.0.0.1:30008"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
-try = ["world1", "world2", "world3"]
+try = ["lobby", "world1", "world2"]
 
 [forced-hosts]
 # Configure your forced hosts here.
+"lobby.mcfrens.com" = [
+    "lobby"
+]
 "world1.mcfrens.com" = [
     "world1"
 ]
 "world2.mcfrens.com" = [
     "world2"
-]
-"world3.mcfrens.com" = [
-    "world3"
 ]
 
 [advanced]
