@@ -1,0 +1,12 @@
+[main b0e8105] backing up
+ 1 file changed, 51 insertions(+), 81 deletions(-)
+ rewrite velocity.toml (64%)
+WARN StatusConsoleListener Advanced terminal features are not available in this environment
+[09:55:39 INFO]: Booting up Velocity 3.2.0-SNAPSHOT (git-19abb909-b265)...
+[09:55:39 INFO]: Loading localizations...
+[09:55:39 INFO]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.0.x (Linux x86_64) ciphers
+[09:55:39 INFO]: Loading plugins...
+[09:55:39 INFO]: Loaded 0 plugins
+[09:55:39 ERROR]: Can't bind to /0.0.0.0:25565
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[09:55:39 INFO]: Done (1.32s)!
