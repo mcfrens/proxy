@@ -1,0 +1,218 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+WARN StatusConsoleListener Advanced terminal features are not available in this environment
+[10:09:39 INFO]: Booting up Velocity 3.2.0-SNAPSHOT (git-19abb909-b265)...
+[10:09:39 INFO]: Loading localizations...
+[10:09:39 INFO]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.0.x (Linux x86_64) ciphers
+[10:09:39 INFO]: Loading plugins...
+[10:09:39 INFO]: Loaded 0 plugins
+[10:09:39 INFO]: Listening on /[0:0:0:0:0:0:0:0%0]:25565
+[10:09:39 INFO]: Done (1.86s)!
+[10:16:38 INFO]: [connected player] bperry72 (/66.63.167.121:52550) has connected
+[10:16:38 INFO]: [server connection] bperry72 -> lobby has connected
+[10:16:38 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:16:38 ERROR]: [connected player] bperry72 (/66.63.167.121:52550): disconnected while connecting to lobby: Outdated client! Please use 1.20.1
+[10:16:38 INFO]: [server connection] bperry72 -> world1 has connected
+[10:16:38 INFO]: [server connection] bperry72 -> world1 has disconnected
+[10:16:38 ERROR]: [connected player] bperry72 (/66.63.167.121:52550): disconnected while connecting to world1: Outdated client! Please use 1.20.1
+[10:16:38 INFO]: [connected player] bperry72 (/66.63.167.121:52550) has disconnected: Unable to connect to world1: Outdated client! Please use 1.20.1
+[10:19:34 INFO]: [connected player] bperry72 (/66.63.167.121:53542) has connected
+[10:19:34 INFO]: [server connection] bperry72 -> lobby has connected
+[10:19:51 INFO]: [server connection] bperry72 -> world1 has connected
+[10:19:51 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:20:29 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[10:22:29 INFO]: [connected player] bperry72 (/66.63.167.121:53542) has disconnected
+[10:22:29 INFO]: [server connection] bperry72 -> world1 has disconnected
+[10:27:33 INFO]: [connected player] bperry72 (/71.32.168.217:54830) has connected
+[10:27:33 INFO]: [server connection] bperry72 -> lobby has connected
+[10:27:38 INFO]: [connected player] bperry72 (/71.32.168.217:54830) has disconnected
+[10:27:38 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:29:17 INFO]: [connected player] bperry72 (/66.63.167.121:46558) has connected
+[10:29:17 INFO]: [server connection] bperry72 -> lobby has connected
+[10:29:55 INFO]: [connected player] bperry72 (/66.63.167.121:46558) has disconnected
+[10:29:55 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:33:40 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[11:16:29 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[12:45:00 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[13:05:57 ERROR]: [initial connection] /139.144.200.28:60418: read timed out
+[13:14:32 INFO]: [connected player] MelonAdvocate (/206.206.162.30:59831) has connected
+[13:14:32 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[13:23:42 INFO]: [connected player] MelonAdvocate (/206.206.162.30:59831) has disconnected
+[13:23:42 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[13:24:03 INFO]: [connected player] MelonAdvocate (/206.206.162.30:60011) has connected
+[13:24:03 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[13:27:21 INFO]: [server connection] MelonAdvocate -> world1 has connected
+[13:27:21 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[14:09:26 INFO]: [connected player] ChimmyChimmers (/71.194.224.76:63838) has connected
+[14:09:26 INFO]: [server connection] ChimmyChimmers -> lobby has connected
+[14:09:41 INFO]: [server connection] ChimmyChimmers -> world1 has connected
+[14:09:41 INFO]: [server connection] ChimmyChimmers -> lobby has disconnected
+[14:15:47 INFO]: [server connection] ChimmyChimmers -> lobby has connected
+[14:15:47 INFO]: [server connection] ChimmyChimmers -> world1 has disconnected
+[14:15:52 INFO]: [connected player] Stoney_SZN (/99.158.54.134:56117) has connected
+[14:15:52 INFO]: [server connection] Stoney_SZN -> lobby has connected
+[14:16:16 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[14:16:16 INFO]: [server connection] MelonAdvocate -> world1 has disconnected
+[14:29:49 INFO]: [server connection] MelonAdvocate -> world1 has connected
+[14:29:49 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[14:29:57 INFO]: [server connection] Stoney_SZN -> world1 has connected
+[14:29:57 INFO]: [server connection] Stoney_SZN -> lobby has disconnected
+[14:30:06 INFO]: [server connection] ChimmyChimmers -> world1 has connected
+[14:30:06 INFO]: [server connection] ChimmyChimmers -> lobby has disconnected
+[14:44:42 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[15:06:10 ERROR]: [initial connection] /139.144.200.28:55820: read timed out
+[15:32:04 INFO]: [connected player] MelonAdvocate (/206.206.162.30:60011) has disconnected
+[15:32:04 INFO]: [server connection] MelonAdvocate -> world1 has disconnected
+[15:32:06 INFO]: [connected player] MelonAdvocate (/206.206.162.30:62350) has connected
+[15:32:06 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[15:32:11 INFO]: [server connection] MelonAdvocate -> world1 has connected
+[15:32:11 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[15:32:46 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[15:44:50 INFO]: [connected player] Stoney_SZN (/99.158.54.134:56117) has disconnected
+[15:44:50 INFO]: [server connection] Stoney_SZN -> world1 has disconnected
+[15:46:56 INFO]: [connected player] ChimmyChimmers (/71.194.224.76:63838) has disconnected
+[15:46:56 INFO]: [server connection] ChimmyChimmers -> world1 has disconnected
+[15:56:40 INFO]: [connected player] MelonAdvocate (/206.206.162.30:62350) has disconnected
+[15:56:40 INFO]: [server connection] MelonAdvocate -> world1 has disconnected
+[16:05:58 ERROR]: [initial connection] /139.144.200.28:50810: read timed out
+[16:23:21 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[17:05:52 ERROR]: [initial connection] /139.144.200.28:43738: read timed out
+[17:18:06 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[17:57:22 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[18:05:48 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[18:21:06 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[19:06:10 ERROR]: [initial connection] /139.144.200.28:46458: read timed out
+[19:09:25 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[20:40:46 INFO]: [connected player] ChimmyChimmers (/71.194.224.76:62654) has connected
+[20:40:46 INFO]: [server connection] ChimmyChimmers -> lobby has connected
+[21:06:45 INFO]: [connected player] MelonAdvocate (/206.206.162.30:50828) has connected
+[21:06:45 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:08:39 INFO]: [connected player] KuhnDog (/98.215.79.126:57777) has connected
+[21:08:39 INFO]: [server connection] KuhnDog -> lobby has connected
+[21:14:56 INFO]: [connected player] KuhnDog (/98.215.79.126:57777) has disconnected
+[21:14:56 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[21:17:01 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[21:28:31 INFO]: [server connection] ChimmyChimmers -> world1 has connected
+[21:28:31 INFO]: [server connection] ChimmyChimmers -> lobby has disconnected
+[21:29:05 INFO]: [server connection] ChimmyChimmers -> lobby has connected
+[21:29:05 INFO]: [server connection] ChimmyChimmers -> world1 has disconnected
+[21:33:44 INFO]: [connected player] bperry72 (/71.32.168.217:46512) has connected
+[21:33:44 INFO]: [server connection] bperry72 -> lobby has connected
+[21:33:46 INFO]: [connected player] KuhnDog (/98.215.79.126:57963) has connected
+[21:33:46 INFO]: [server connection] KuhnDog -> lobby has connected
+[21:35:10 INFO]: [connected player] MelonAdvocate (/206.206.162.30:50828) has disconnected
+[21:35:10 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:35:11 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51808) has connected
+[21:35:11 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:35:27 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51808) has disconnected
+[21:35:27 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:35:28 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51814) has connected
+[21:35:28 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:35:32 INFO]: [connected player] ChimmyChimmers (/71.194.224.76:62654) has disconnected
+[21:35:32 INFO]: [server connection] ChimmyChimmers -> lobby has disconnected
+[21:35:34 INFO]: [connected player] ChimmyChimmers (/71.194.224.76:64206) has connected
+[21:35:34 INFO]: [server connection] ChimmyChimmers -> lobby has connected
+[21:40:26 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51814) has disconnected
+[21:40:26 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:40:27 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51898) has connected
+[21:40:27 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:43:58 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51898): kicked from server lobby: multiplayer.disconnect.chat_validation_failed
+[21:43:58 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:43:58 INFO]: [server connection] MelonAdvocate -> world1 has connected
+[21:44:10 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:44:10 INFO]: [server connection] MelonAdvocate -> world1 has disconnected
+[21:44:48 INFO]: [connected player] bperry72 (/71.32.168.217:46512): kicked from server lobby: multiplayer.disconnect.chat_validation_failed
+[21:44:48 INFO]: [server connection] bperry72 -> lobby has disconnected
+[21:44:48 INFO]: [server connection] bperry72 -> world1 has connected
+[21:45:02 INFO]: [server connection] bperry72 -> lobby has connected
+[21:45:02 INFO]: [server connection] bperry72 -> world1 has disconnected
+[21:54:20 INFO]: [connected player] MelonAdvocate (/206.206.162.30:51898) has disconnected
+[21:54:20 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:55:05 INFO]: [connected player] MelonAdvocate (/206.206.162.30:52331) has connected
+[21:55:05 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:56:15 INFO]: [connected player] MelonAdvocate (/206.206.162.30:52331) has disconnected
+[21:56:15 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:57:10 INFO]: [server connection] KuhnDog -> world1 has connected
+[21:57:10 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[21:57:39 INFO]: [connected player] MelonAdvocate (/206.206.162.30:52403) has connected
+[21:57:39 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:57:47 INFO]: [server connection] MelonAdvocate -> world1 has connected
+[21:57:47 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[21:57:56 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[21:57:56 INFO]: [server connection] MelonAdvocate -> world1 has disconnected
+[21:58:07 INFO]: [server connection] ChimmyChimmers -> world1 has connected
+[21:58:07 INFO]: [server connection] ChimmyChimmers -> lobby has disconnected
+[21:58:25 INFO]: [server connection] MelonAdvocate -> world1 has connected
+[21:58:25 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[22:21:15 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[22:37:13 INFO]: [connected player] Stoney_SZN (/99.158.54.134:62264) has connected
+[22:37:13 INFO]: [server connection] Stoney_SZN -> lobby has connected
+[22:37:35 INFO]: [server connection] Stoney_SZN -> world1 has connected
+[22:37:35 INFO]: [server connection] Stoney_SZN -> lobby has disconnected
+[23:06:13 ERROR]: [initial connection] /139.144.200.28:49374: read timed out
+[23:26:22 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:26:22 INFO]: [server connection] KuhnDog -> world1 has disconnected
+[23:27:33 INFO]: [server connection] KuhnDog -> world1 has connected
+[23:27:33 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[23:30:10 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:30:11 INFO]: [server connection] KuhnDog -> world1 has disconnected
+[23:36:34 INFO]: [connected player] ChimmyChimmers (/71.194.224.76:64206) has disconnected
+[23:36:34 INFO]: [server connection] ChimmyChimmers -> world1 has disconnected
+[23:38:13 INFO]: [connected player] Stoney_SZN (/99.158.54.134:62264) has disconnected
+[23:38:13 INFO]: [server connection] Stoney_SZN -> world1 has disconnected
+[23:38:35 INFO]: [server connection] KuhnDog -> world1 has connected
+[23:38:35 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[23:38:50 INFO]: [server connection] MelonAdvocate -> lobby has connected
+[23:38:50 INFO]: [server connection] MelonAdvocate -> world1 has disconnected
+[23:38:53 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:38:53 INFO]: [server connection] KuhnDog -> world1 has disconnected
+[23:40:44 INFO]: [connected player] MelonAdvocate (/206.206.162.30:52403) has disconnected
+[23:40:44 INFO]: [server connection] MelonAdvocate -> lobby has disconnected
+[23:42:13 INFO]: [server connection] KuhnDog -> world1 has connected
+[23:42:13 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[23:49:30 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:49:30 INFO]: [server connection] KuhnDog -> world1 has disconnected
+[23:53:31 INFO]: [connected player] bperry72 (/71.32.168.217:46512) has disconnected
+[23:53:31 INFO]: [server connection] bperry72 -> lobby has disconnected
+[23:54:23 ERROR]: [initial connection] /84.54.51.121:61000: read timed out
+[23:56:49 INFO]: [connected player] KuhnDog (/98.215.79.126:57963) has disconnected: Your connection to lobby encountered a problem.
+[23:56:49 ERROR]: [server connection] KuhnDog -> lobby: read timed out
+[23:56:49 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[23:56:56 INFO]: [connected player] KuhnDog (/98.215.79.126:58199) has connected
+[23:56:56 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:57:11 INFO]: [connected player] KuhnDog (/98.215.79.126:58199) has disconnected
+[23:57:11 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[23:57:15 INFO]: [connected player] KuhnDog (/98.215.79.126:58210) has connected
+[23:57:15 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:57:45 ERROR]: [connected player] KuhnDog (/98.215.79.126:58210): read timed out
+[23:57:45 INFO]: [connected player] KuhnDog (/98.215.79.126:58210) has disconnected
+[23:57:45 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[23:58:59 INFO]: [connected player] KuhnDog (/98.215.79.126:58220) has connected
+[23:58:59 INFO]: [server connection] KuhnDog -> lobby has connected
+[23:59:02 INFO]: [connected player] KuhnDog (/98.215.79.126:58220) has disconnected
+[23:59:02 INFO]: [server connection] KuhnDog -> lobby has disconnected
+[00:05:58 ERROR]: [initial connection] /139.144.200.28:37746: read timed out
+[00:41:34 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[04:57:00 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[05:09:50 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[06:05:58 ERROR]: [initial connection] /139.144.200.28:33824: read timed out
+[06:39:22 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[07:06:05 ERROR]: [initial connection] /139.144.200.28:56904: read timed out
+[07:42:35 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[07:55:21 ERROR]: [initial connection] /51.15.34.47:61000: read timed out
+[08:06:06 ERROR]: [initial connection] /139.144.200.28:38738: read timed out
+[09:06:04 ERROR]: [initial connection] /139.144.200.28:57132: read timed out
+[10:06:01 ERROR]: [initial connection] /139.144.200.28:44958: read timed out
+[10:35:30 INFO]: [connected player] bperry72 (/71.32.168.217:35376) has connected
+[10:35:30 INFO]: [server connection] bperry72 -> lobby has connected
+[10:35:59 ERROR]: [connected player] bperry72 (/71.32.168.217:35376): read timed out
+[10:35:59 INFO]: [connected player] bperry72 (/71.32.168.217:35376) has disconnected
+[10:35:59 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:36:02 INFO]: [connected player] bperry72 (/71.32.168.217:38530) has connected
+[10:36:02 INFO]: [server connection] bperry72 -> lobby has connected
+[10:36:07 INFO]: [connected player] bperry72 (/71.32.168.217:38530) has disconnected
+[10:36:07 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:37:43 INFO]: Shutting down the proxy...
+[10:37:43 INFO]: Closing endpoint /0.0.0.0:25565
