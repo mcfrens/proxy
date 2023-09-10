@@ -1,0 +1,19 @@
+[main 9c25383] backing up
+ 1 file changed, 218 deletions(-)
+ rewrite output.log (100%)
+WARN StatusConsoleListener Advanced terminal features are not available in this environment
+[10:40:29 INFO]: Booting up Velocity 3.2.0-SNAPSHOT (git-19abb909-b265)...
+[10:40:29 INFO]: Loading localizations...
+[10:40:29 INFO]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.0.x (Linux x86_64) ciphers
+[10:40:30 INFO]: Loading plugins...
+[10:40:30 INFO] [com.brendanperry.MCFrens]: Hello there! I made my first plugin with Velocity.
+[10:40:30 INFO]: Loaded plugin mcfrens 0.1.0-SNAPSHOT by Brendan Perry
+[10:40:30 INFO]: Loaded 1 plugins
+[10:40:30 INFO]: Listening on /[0:0:0:0:0:0:0:0%0]:25565
+[10:40:30 INFO]: Done (1.31s)!
+[10:44:00 INFO]: [connected player] bperry72 (/71.32.168.217:54276) has connected
+[10:44:00 INFO]: [server connection] bperry72 -> lobby has connected
+[10:44:58 INFO]: [connected player] bperry72 (/71.32.168.217:54276) has disconnected
+[10:44:58 INFO]: [server connection] bperry72 -> lobby has disconnected
+[10:57:48 INFO]: Shutting down the proxy...
+[10:57:48 INFO]: Closing endpoint /0.0.0.0:25565
