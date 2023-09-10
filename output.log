@@ -16,3 +16,6 @@ WARN StatusConsoleListener Advanced terminal features are not available in this 
 [14:14:18 ERROR]: [initial connection] /84.54.51.121:61000: read timed out
 [14:14:41 INFO]: [server connection] bperry72 -> world1 has connected
 [14:14:41 INFO]: [server connection] bperry72 -> lobby has disconnected
+[14:19:04 INFO]: Shutting down the proxy...
+[14:19:04 INFO]: Closing endpoint /0.0.0.0:25565
+[14:19:04 INFO]: [connected player] bperry72 (/71.32.168.217:53306) has disconnected: Proxy shutting down.
