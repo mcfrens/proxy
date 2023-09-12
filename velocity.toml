@@ -16,15 +16,13 @@ ping-passthrough = "DISABLED"
 enable-player-address-logging = true
 
 [servers]
-	#world2 = "127.0.0.1:30067"
 	lobby = "127.0.0.1:30008"
-	#moddedsurvival="127.0.0.1:30880"
 	# In what order we should try servers when a player logs in or is kicked from a server.
 	try = ["lobby", "world1"]
-	world1 = "127.0.0.1:30066"
+	survival = "127.0.0.1:30066"
 
 [forced-hosts]
-	"world1.mcfrens.com" = ["world1"]
+	"survival.mcfrens.com" = ["survival"]
 	# Configure your forced hosts here.
 	"lobby.mcfrens.com" = ["lobby"]
 
