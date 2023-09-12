@@ -1,8 +1,0 @@
-[main ffb5842] backing up
- 2 files changed, 2 insertions(+), 4 deletions(-)
-WARN StatusConsoleListener Advanced terminal features are not available in this environment
-[00:10:09 INFO]: Booting up Velocity 3.2.0-SNAPSHOT (git-19abb909-b265)...
-[00:10:09 INFO]: Loading localizations...
-[00:10:09 INFO]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.0.x (Linux x86_64) ciphers
-[00:10:09 ERROR]: Fallback server world1 is not registered in your configuration!
-[00:10:09 ERROR]: Your configuration is invalid. Velocity will not start up until the errors are resolved.
