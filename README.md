@@ -38,4 +38,4 @@ But what about the cool mcfrens.com domain name? Too bad, that is mine. If you w
 2. run `crontab -e`
 3. Add a new line at the end of the file `@reboot ./Minecraft/mc-frens/launch-all-servers.sh`
 4. The launch all servers script will need to be edited with the file paths of your servers where each has their own start.sh script to start them.
-4. This will start the server in the background which can make it hard to stop. You can run `top` and find all processes that are using Java. `kill -9 [PID]` to stop it. This should probably be improved using something like tmux.
+4. This will start the server is the background using tmux. If you want to stop it without restarting, checkout how to attach to a tmux session.
